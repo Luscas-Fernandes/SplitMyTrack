@@ -1,0 +1,5 @@
+demucs==4.1.0a3
+pytubefix==10.3.5
+moviepy==1.0.3
+imageio-ffmpeg==0.6.0
+torch==2.2.0
