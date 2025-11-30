@@ -3,7 +3,7 @@
 This code downloads any song you choose from youtube and breaks it into four instruments:
 "Other", "Vocals", "Bass" and "Drums"
 
-After downloading, it uses Demucs Music Source Separation: https://github.com/adefossez/demucs,
+It uses Demucs Music Source Separation: https://github.com/adefossez/demucs
 to separate the four instruments.
 
 
@@ -22,5 +22,6 @@ You'll have to install:
 - requirements.txt 
 
 before being able to use this program.
+
 
 pip install -r requirements.txt
