@@ -8,7 +8,7 @@ to separate the four instruments.
 
 ## How to use it
 
-1. At converter.py, at the fifth line, place the youtube URL of your desired song 
+1. In converter.py, at the fifth line, place the youtube URL of your desired song 
 2. Run converter.py
 
 Cheers, feel free to use the separated instrument audios
