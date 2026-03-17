@@ -10,7 +10,7 @@ try:
 
     audio_stream = yt.streams.filter(only_audio=True).first()
     if audio_stream is None:
-        raise RuntimeError("Nenhum stream de áudio encontrado para esse vídeo.")
+        raise RuntimeError("No audio stream found for this video.")
 
     print("Downloading audio file: " + yt.title)
     audio_file = audio_stream.download()
